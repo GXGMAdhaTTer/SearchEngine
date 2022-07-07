@@ -1,0 +1,10 @@
+[2022-07-07 11:02:44.117] [gxg_logger] [info] [src/Online/Server/MyTask.cc:process:87] User 127.0.0.1:8888---->127.0.0.1:51136 search 中国
+[2022-07-07 11:02:47.596] [gxg_logger] [info] [src/Online/Server/MyTask.cc:process:87] User 127.0.0.1:8888---->127.0.0.1:51136 search  中国
+[2022-07-07 11:02:50.709] [gxg_logger] [info] [src/Online/Server/MyTask.cc:process:87] User 127.0.0.1:8888---->127.0.0.1:51136 search 美国
+[2022-07-07 11:02:56.022] [gxg_logger] [info] [src/Online/Server/MyTask.cc:process:87] User 127.0.0.1:8888---->127.0.0.1:51136 search  美国
+[2022-07-07 14:03:12.685] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:51366 search 0 中国
+[2022-07-07 14:03:15.843] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:51366 search 0 美国
+[2022-07-07 14:03:18.899] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:51366 search 0 美女
+[2022-07-07 14:03:28.550] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:51366 search 0 三上悠亚
+[2022-07-07 21:42:24.505] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:52510 search 0 
+[2022-07-07 21:42:57.345] [gxg_fileLogger] [info] User 127.0.0.1:8888---->127.0.0.1:52514 search 0 中国
